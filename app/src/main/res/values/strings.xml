@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Aether</string>
+    <string name="brand_title">AETHER</string>
+    <string name="search_placeholder">Search city or neighborhood…</string>
+    <string name="gps_active">Live GPS Active</string>
+    <string name="gps_locating">Locating…</string>
+    <string name="gps_default">Default Location</string>
+    <string name="gps_permission_needed">Tap to Enable GPS</string>
+    <string name="network_error">Network Error • Retry</string>
+    <string name="chip_current_gps">Current GPS</string>
+    <string name="humidity_label">HUMIDITY</string>
+    <string name="wind_label">WIND SPEED</string>
+    <string name="feels_like_label">FEELS LIKE</string>
+    <string name="pressure_label">AIR PRESSURE</string>
+    <string name="hourly_forecast_title">HOURLY FORECAST</string>
+    <string name="weekly_forecast_title">7-DAY FORECAST</string>
+    <string name="switch_to_f">SWITCH: °C → °F</string>
+    <string name="switch_to_c">SWITCH: °F → °C</string>
+    <string name="cd_aether_logo">Aether Weather logo</string>
+    <string name="cd_clear_search">Clear search query</string>
+    <string name="cd_refresh_weather">Refresh weather</string>
+    <string name="cd_open_settings">Open theme and controls settings</string>
+    <string name="severe_alerts_title">SEVERE WEATHER ALERTS</string>
+    <string name="alerts_push_label">Push Notifications</string>
+    <string name="alerts_push_subtitle">Background check every 15 min for your location</string>
+    <string name="alerts_all_clear">ALL CLEAR • No severe weather alerts detected</string>
+    <string name="alerts_check_now">Check Now</string>
+    <string name="alerts_test_push">Test Alert</string>
+    <string name="notification_channel_name">Severe Weather Alerts</string>
+    <string name="notification_channel_desc">Urgent alerts for storms, heavy rain, high winds, and extreme temperatures in your location.</string>
+    <string name="widget_description">Resizable live weather widget showing current temperature, condition, and city.</string>
+</resources>

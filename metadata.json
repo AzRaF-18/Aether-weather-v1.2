@@ -1,0 +1,6 @@
+{
+  "name": "Aether",
+  "description": "Aether weather app with live GPS, neighborhood reverse geocoding, dynamic sky gradients, animated celestial visuals, and hourly/7-day forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

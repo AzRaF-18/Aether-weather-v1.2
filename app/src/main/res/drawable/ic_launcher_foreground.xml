@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Raindrops inside 66dp safe zone (21..87) -->
+    <path
+        android:fillColor="#9AD8F5"
+        android:pathData="M39,62 C36.2,65.5 34.5,68.5 34.5,71 A4.5,4.5 0 0,0 43.5,71 C43.5,68.5 41.8,65.5 39,62 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#3B1D1A"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#9AD8F5"
+        android:pathData="M53,64 C50.2,67.5 48.5,70.5 48.5,73 A4.5,4.5 0 0,0 57.5,73 C57.5,70.5 55.8,67.5 53,64 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#3B1D1A"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#9AD8F5"
+        android:pathData="M67,61 C64.2,64.5 62.5,67.5 62.5,70 A4.5,4.5 0 0,0 71.5,70 C71.5,67.5 69.8,64.5 67,61 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#3B1D1A"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#9AD8F5"
+        android:pathData="M45,73 C42.4,76.3 40.8,79.1 40.8,81.4 A4.2,4.2 0 0,0 49.2,81.4 C49.2,79.1 47.6,76.3 45,73 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#3B1D1A"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#9AD8F5"
+        android:pathData="M60,72 C57.4,75.3 55.8,78.1 55.8,80.4 A4.2,4.2 0 0,0 64.2,80.4 C64.2,78.1 62.6,75.3 60,72 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#3B1D1A"
+        android:strokeLineJoin="round" />
+    <!-- Bold fluffy Aether cloud with red outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,60 C27.5,60 23,55.8 23,50.2 C23,45.2 26.8,41.0 32.0,40.1 C33.5,33.5 39.4,28.8 46.5,28.8 C48.2,28.8 49.8,29.1 51.3,29.6 C53.8,26.0 58.0,23.8 62.8,23.8 C70.4,23.8 76.6,29.5 77.3,36.8 C81.8,38.0 85.0,42.0 85.0,46.8 C85.0,52.8 80.1,57.5 73.8,57.5 C71.5,59.1 68.7,60.0 65.7,60.0 C62.7,60.0 60.0,59.1 57.8,57.5 C55.5,59.2 52.6,60.2 49.5,60.2 C46.4,60.2 43.6,59.2 41.4,57.5 C39.3,59.1 36.7,60.0 34,60 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#EF4444"
+        android:strokeLineJoin="round" />
+</vector>
